@@ -1,3 +1,2 @@
 # coursera-test
-New Coursera test repository
-
+Coursera test repository
